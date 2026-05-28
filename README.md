@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Trabalho bem feito, logicamente.
+* Trabalho bem executado, logicamente.
