@@ -1,2 +1,2 @@
 # DougGS Tecnologia da Informação
-* Trabalho bem executado, logicamente.
+* Trabalho bem feito, logicamente.
